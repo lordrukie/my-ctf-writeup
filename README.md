@@ -20,5 +20,5 @@ This repository contains detailed write-ups of Capture The Flag (CTF) challenges
 
 | Event Name | Team | Ranking | Writeup |
 | ---------- | ---- | ------- | ------- |
-| Bugcrowd Blackhat Asia CTF 2024 | PETIR - FlagGPT | 1 | [Available](./2024/national/gemastik-xvii/)
+| Gemastik XVII | PETIR - FlagGPT | 1 | [Available](./2024/national/gemastik-xvii/)
 
